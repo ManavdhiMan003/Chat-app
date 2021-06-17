@@ -24,7 +24,8 @@ cd Chat-app
 
 - Create a virtual environment
 ```
-virtualenv venv
+python3 -m venv venv
+
 ```
 
 - Enable the virtual environment in windows
